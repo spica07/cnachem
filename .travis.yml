@@ -33,7 +33,7 @@ deploy:
     wait-until-deployed: true
     local_dir: deploy
     on:
-      repo: spica07/cnachem
+      repo: spica07/dev2019
       branch: master    
       
  # Travis CI & CodeDeploy 연동     
@@ -48,5 +48,5 @@ deploy:
     region: ap-northeast-2
     wait-until-deployed: true    
     on:
-      repo: spica07/cnachem
+      repo: spica07/dev2019
       branch: master     
