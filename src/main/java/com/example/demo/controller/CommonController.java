@@ -8,7 +8,7 @@ public class CommonController {
     
     @RequestMapping("/")
     public String root_test() throws Exception{
-        return "Hello CNA(/)";
+        return "Hello CNA!!!(/)";
     }
  
     @RequestMapping("/demo")
