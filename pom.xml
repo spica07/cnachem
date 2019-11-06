@@ -82,7 +82,7 @@
         </dependency>
         SECURITY -->
         
-         <!-- 화학식 검색을 위한 indigo 라이브러리-->
+         <!-- Indigo -->
 		<dependency>
 		  <groupId>com.epam.indigo</groupId>
 		    <artifactId>indigo</artifactId>
