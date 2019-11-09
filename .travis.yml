@@ -11,6 +11,9 @@ cache:
   directories:
     - $HOME/.m2
 
+#slack 연계
+notifications:
+  slack: cnacna:jgIJ0QuMJDQSPP1kJVu8cUL7
 
 # Travis CI & S3 연동
 before_deploy:
