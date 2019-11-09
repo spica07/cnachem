@@ -22,8 +22,8 @@ public class SampleService {
 	}
 	
 	public List<LinkedHashMap<String,Object>> findSmileData(String srcSmile) {
-		System.setProperty("java.library.path", "/tmp/indigo8da420a34c5340161cbe4c60a8df4dc8");
-		System.loadLibrary("libindigo.so");
+//		System.setProperty("java.library.path", "/tmp/indigo8da420a34c5340161cbe4c60a8df4dc8");
+//		System.loadLibrary("libindigo.so");
 //		srcSmile = "C1=CN=CC=C1";  //검색구조 1
 //		/sample/smiles/filter?key=N1=CC=CN1
 //		srcSmile = "N1=CC=CN1"; // 검색구조 2
